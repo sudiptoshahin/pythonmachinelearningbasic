@@ -1,0 +1,13 @@
+Mask,Sanitizer,Social Distance,Covid-19
+KN-95,None,No,Positive
+KN-95,Hydra,No,Positive
+KN-95,Dettol,Yes,Negative
+Medical,Hydra,Yes,Negative
+Medical,Dettol,No,Positive
+Medical,None,No,Positive
+Normal,Dettol,Yes,Positive
+Normal,Hydra,No,Positive
+Normal,None,Yes,Positive
+MK-11,Hydra,Yes,Negative
+MK-11,Dettol,Yes,Negative
+MK-11,None,Yes,Negative
